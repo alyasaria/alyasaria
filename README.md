@@ -48,10 +48,10 @@ Here are some ideas to get you started:
 </p>
 <br>
 
-|![](https://github-readme-stats.vercel.app/api?username=alyasaria&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=alyasaria&layout=compact&theme=tokyonight&langs_count=10)|
+|![](https://github-readme-stats.vercel.app/api?username=alyazalea&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=alyazalea&layout=compact&theme=tokyonight&langs_count=10)|
 |-|-|
 
-![](https://activity-graph.herokuapp.com/graph?username=alyasaria&theme=redical)
+![](https://activity-graph.herokuapp.com/graph?username=alyazalea&theme=redical)
 <br>
-<p align="center"><p align="center"> <img src="https://komarev.com/ghpvc/?username=alyasaria" alt="blueedge"/> </p>  </p>
+<p align="center"><p align="center"> <img src="https://komarev.com/ghpvc/?username=alyazalea" alt="blueedge"/> </p>  </p>
 <br>
